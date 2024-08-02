@@ -11,6 +11,13 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+          "hero": "url('/images/6th.jpeg')",
+          "hero1": "url('/images/4th.png')",
+          "hero2": "url('/images/3th.jpeg')",
+          "hero7": "url('/images/7th.jpeg')",
+          "hero5": "url('/images/10th.jpeg')",
+
+
       },
     },
   },
