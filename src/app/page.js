@@ -47,7 +47,7 @@ const page = () => {
           </div>
         </div>x 
         <div className="w-full flex justify-center  ">
-          <div className="w-[80%] mt-[20px] text-white bg-blue-500 ">
+          <div className="w-[80%] mt-[20px] text-white  ">
             <p>
               
               Lorem Ipsum is simply dummy text of the printing and typesetting
