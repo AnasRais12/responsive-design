@@ -80,7 +80,7 @@ const page = () => {
         </div>
       </div>
       <div className="w-full bg-hero5 bg-no-repeat bg-cover bg-center  flex  items-center  justify-center mt-[0px] md:mt-[250px]  ">
-        <div className="w-[100%] flex-col md:flex lg:flex sm:flex-col md:bg-blue-500 py-20 bg-red-500 ">
+        <div className="w-[100%] flex md:flex lg:flex sm:flex py-20  ">
           <div className="lg:w-[50%] md:w-[100%] lg:h-[750px] md:h-[200px]">
             <img className="w-full lg:h-[750px] md:h-[300px] " src="images/4th.png" />
           </div>
